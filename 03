@@ -1,0 +1,8 @@
+num1=str(input())
+num2=str(input())
+num3=str(input())
+num4=str(input())
+print("|%15s %15s|"%(num1,num2))
+print("|%15s %15s|"%(num3,num4))
+print("|%-15s %-15s|"%(num1,num2))
+print("|%-15s %-15s|"%(num3,num4))
